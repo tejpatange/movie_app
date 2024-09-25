@@ -11,9 +11,9 @@ A Flutter application that allows users to explore movies, search for their favo
 
 ## Screenshots
 
-![Home Screen](screenshots/home_screen.jpg)
-![Search Screen](screenshots/search_screen.png)
-![Details Screen](screenshots/details_screen.png)
+![Home Screen](home_screen.jpg)
+![Search Screen](search_screen.jpg)
+![Details Screen](details_screen.jpg)
 
 ## Technologies Used
 
